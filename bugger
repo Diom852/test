@@ -1,7 +1,7 @@
 #!/bin/bash
 cd $HOME
-    mv mb $PREFIX/bin/DI
-    chmod +x $PREFIX/bin/DI
+    mv mb $PREFIX/bin/di
+    chmod +x $PREFIX/bin/di
 clear
 echo -e "\033[1;32mBem Vindos ao Gerador de MBS VIVO BY: DIOM :)\033[1;37m"
 echo -e "\033[1;31mHORARIO QUE GERALMENTE FUNCIONA 7-12AM\033[1;37m"
